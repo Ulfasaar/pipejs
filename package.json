@@ -1,0 +1,29 @@
+{
+  "name": "pipejs",
+  "version": "0.0.0",
+  "description": "A javascript version of the python pipe library",
+  "main": "pipe.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ulfasaar/pipejs.git"
+  },
+  "keywords": [
+    "data-flow",
+    "pipe",
+    "concurrency",
+    "multiprocessing"
+  ],
+  "author": "Ryan Weyers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ulfasaar/pipejs/issues"
+  },
+  "homepage": "https://github.com/Ulfasaar/pipejs#readme",
+  "devDependencies": {
+    "jest": "^22.4.2",
+    "nodemon": "^1.17.1"
+  }
+}
